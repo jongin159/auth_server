@@ -1,0 +1,5 @@
+BTC,60,10,cross
+ETH,60,10,cross
+XRP,30,10,cross
+SOL,30,10,cross
+ADA,30,10,cross
